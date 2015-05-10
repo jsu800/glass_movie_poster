@@ -27,6 +27,10 @@ import com.nbcu.medialabs.AuthUtil;
 import com.nbcu.medialabs.MirrorClient;
 import com.nbcu.medialabs.WebUtil;
 
+
+/* 
+ * @author Joseph Su
+ */
 public class Contacts {
 
 	private static final Logger LOG = Logger
