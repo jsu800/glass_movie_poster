@@ -24,3 +24,5 @@ to ensure that client is equipped with the poster app that communicates with the
 * snaps and captures image photo
 * shares image photo by sending it to Server (see below)
 * receives async server notifications about image results 
+
+![](https://github.com/jsu800/glass_movie_poster/blob/master/image/glass%20movie%20poster%20app.png)
