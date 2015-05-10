@@ -9,6 +9,11 @@ Server: Google AppEngine Service (requiring Java 1.7+)
 * listens for client photo share activities (async notifications via REST GET) 
 * communicates with client (sending client notificaitons via Glass Mirror API)
 
+This project uses two publicly available APIs:
+
+* Google Glass API 16-18
+* Open Source Beta Face API for image recognition
+
 Client: Google Glass
 NB: there's minimal client installation involved other than going through the standard OAuthing dance such as 
 
