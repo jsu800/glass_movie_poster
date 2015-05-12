@@ -1,9 +1,8 @@
-glass_movie_poster
-==================
+## Glass Movie Poster
 
 This Android service runs on Google Appspot Engine which runs and computes image recognition tasks using the beta-face service. This appspot service captures movie poster image, computes image result, and sends notifications to client via the Glass Mirror API:
 
-Server: Google AppEngine Service (requiring Java 1.7+)
+##Server: Google AppEngine Service (requiring Java 1.7+)
 * connects to betaface image recognition service for image processing
 * computes dynamic image recognition - level of confidence 0% - 100% match
 * listens for client photo share activities (async notifications via REST GET) 
@@ -14,8 +13,8 @@ This project uses two publicly available APIs:
 * Google Glass API 16-18
 * Open Source Beta Face API for image recognition
 
-Client: Google Glass
-NB: there's minimal client installation involved other than going through the standard OAuthing dance such as 
+##Client: Google Glass
+Minimal client installation steps involved other than going through the standard OAuthing dance via:
 
 https://poster-vision.appspot.com/
 
