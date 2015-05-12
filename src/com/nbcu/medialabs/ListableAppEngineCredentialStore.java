@@ -1,4 +1,6 @@
 /*
+ * Based on original Apache License below:
+ * 
  * Copyright (C) 2013 Google Inc.
  * 
  * Licensed under the Apache License, Version 2.0 (the "License"); you may not
@@ -13,6 +15,7 @@
  * License for the specific language governing permissions and limitations under
  * the License.
  */
+
 package com.nbcu.medialabs;
 
 import java.util.ArrayList;
